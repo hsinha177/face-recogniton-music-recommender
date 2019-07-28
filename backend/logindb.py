@@ -32,7 +32,7 @@ fp = open("uname.txt","w")
 fp.write(name)
 f.close()
 
-conn = mysql.connector.connect(host='localhost',user='root',passwd='root',database='reko')	
+conn = mysql.connector.connect(host='localhost',user='username',passwd='user password',database='database name')	
 #establishing connection with server
 mycursor=conn.cursor()
 mycursor.execute("select email from user where email='%s'"%(eid))
@@ -43,7 +43,7 @@ passcheck=mycursor2.fetchone()
 try:
 	if eid == usercheck[0] and paswd == passcheck[0]:
 		print("<meta http-equiv='refresh' content='0;url=https://13.233.28.221/index.php'>")
-		connect=mysql.connector.connect(host="localhost",user="root",passwd="root",database="reko")
+		connect=mysql.connector.connect(host='localhost',user='username',passwd='user password',database='database name')
 		mycur=connect.cursor()
 		mycur.execute("insert into %s(login_time) values('%s')"%(name,ctime))
 		connect.commit()
