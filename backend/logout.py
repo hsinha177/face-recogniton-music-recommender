@@ -18,7 +18,7 @@ p.close()
 print("Content-type:text/html") #information about the type of content it will read
 print("")
 
-connect=mysql.connector.connect(host="localhost",user="root",passwd="root",database="reko")
+connect=mysql.connector.connect(host='localhost',user='username',passwd='user password',database='database name')
 mycur=connect.cursor()
 mycur.execute("update %s set logout_time='%s' where login_time='%s'"%(name,ctime,login_time))
 connect.commit()
