@@ -3,10 +3,7 @@
 import mysql.connector
 import cgi
 import cgitb
-mySQLconn = mysql.connector.connect(host='localhost',
-                             database='reko',
-                             user='root',
-                             password='root')
+mySQLconn = mysql.connector.connect(host='localhost',user='username',passwd='user password',database='database name')
 
 p = open("uname.txt","r")
 name = p.read()
