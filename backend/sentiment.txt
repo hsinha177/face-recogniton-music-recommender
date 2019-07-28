@@ -1,0 +1,143 @@
+,album,track_number,id,name,uri,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,popularity
+0,Tha Carter V,1,3ZVw1HR1QAQoKBygbhG4CE,I Love You Dwayne,spotify:track:3ZVw1HR1QAQoKBygbhG4CE,0.81,0.657,0.814,0.0,0.445,-16.493,0.937,136.142,0.0788,48
+1,Tha Carter V,2,5BQrp63SHCVf4bzCzJePne,Don't Cry (feat. XXXTENTACION),spotify:track:5BQrp63SHCVf4bzCzJePne,0.409,0.585,0.709,0.0,0.183,-6.072,0.319,111.913,0.21,66
+2,Tha Carter V,3,0Y7di9ZCmB6Elad5WISaPc,Dedicate,spotify:track:0Y7di9ZCmB6Elad5WISaPc,0.033,0.879,0.662,0.0,0.716,-6.162,0.309,117.975,0.723,62
+3,Tha Carter V,4,3wScL5W8H40zzCKN0atfBk,Uproar,spotify:track:3wScL5W8H40zzCKN0atfBk,0.0595,0.743,0.87,0.0,0.299,-2.188,0.212,99.075,0.884,72
+4,Tha Carter V,5,0CBQ0m3mufWH75LTYB3s6h,Let It Fly (feat. Travis Scott),spotify:track:0CBQ0m3mufWH75LTYB3s6h,0.0414,0.902,0.819,0.0,0.106,-3.321,0.317,89.0,0.746,63
+5,Tha Carter V,6,5cGpjfgAvidLy6znwkCxkP,Can't Be Broken,spotify:track:5cGpjfgAvidLy6znwkCxkP,0.121,0.578,0.577,0.0,0.086,-5.997,0.202,99.288,0.154,62
+6,Tha Carter V,7,5IvdLxVB8gwwcgnEkXSSW2,Dark Side Of The Moon (feat. Nicki Minaj),spotify:track:5IvdLxVB8gwwcgnEkXSSW2,0.525,0.603,0.457,0.0,0.0905,-5.384,0.297,73.724,0.458,57
+7,Tha Carter V,8,0dbTQYW3Ad1FTzIA9t90E8,Mona Lisa (feat. Kendrick Lamar),spotify:track:0dbTQYW3Ad1FTzIA9t90E8,0.371,0.855,0.694,0.0,0.109,-4.393,0.169,122.078,0.49,70
+8,Tha Carter V,9,3JX0dOCIAiaR8MP3ryXWuM,What About Me (feat. Sosamann),spotify:track:3JX0dOCIAiaR8MP3ryXWuM,0.0263,0.784,0.44,1.9e-06,0.122,-6.566,0.0401,118.089,0.22,60
+9,Tha Carter V,10,2DnH4XlEkghUdE8ymdVom5,Open Letter,spotify:track:2DnH4XlEkghUdE8ymdVom5,0.0283,0.769,0.55,0.0,0.139,-6.299,0.359,97.01,0.36,55
+10,Tha Carter V,11,05r1GGg1Rhs0RcUg27C82a,Famous (feat. Reginae Carter),spotify:track:05r1GGg1Rhs0RcUg27C82a,0.0301,0.624,0.568,0.0,0.25,-5.664,0.143,149.857,0.115,59
+11,Tha Carter V,12,0ubdf6zWT1It2saK41SkO0,Problems,spotify:track:0ubdf6zWT1It2saK41SkO0,0.0169,0.807,0.571,0.0,0.252,-6.937,0.312,139.996,0.0993,54
+12,Tha Carter V,13,2AwyHlbA6f641SEkizD5JG,Dope Niggaz (feat. Snoop Dogg),spotify:track:2AwyHlbA6f641SEkizD5JG,0.0395,0.752,0.708,0.0,0.0601,-5.053,0.28,84.974,0.645,58
+13,Tha Carter V,14,5s6pKnF3ZPtuqvEx1i1V7U,Hittas,spotify:track:5s6pKnF3ZPtuqvEx1i1V7U,0.276,0.788,0.765,0.0,0.216,-3.93,0.439,144.046,0.667,54
+14,Tha Carter V,15,1Dk3CfJEtqvj7Xg2AWwfEn,Took His Time,spotify:track:1Dk3CfJEtqvj7Xg2AWwfEn,0.144,0.752,0.703,0.0,0.325,-3.417,0.213,149.988,0.641,55
+15,Tha Carter V,16,7EgI0dCaQuHFe3OTj5EpWI,Open Safe,spotify:track:7EgI0dCaQuHFe3OTj5EpWI,0.00705,0.929,0.598,0.0,0.0549,-5.373,0.156,96.012,0.501,56
+16,Tha Carter V,17,6wqWfSOZvTK18SAczoYm1L,Start This Shit Off Right (feat. Ashanti & Mack Maine),spotify:track:6wqWfSOZvTK18SAczoYm1L,0.0206,0.865,0.568,0.0,0.186,-5.112,0.241,90.985,0.881,53
+17,Tha Carter V,18,1kaxyXcAi5ZHF3Q94QXsHK,Demon,spotify:track:1kaxyXcAi5ZHF3Q94QXsHK,0.273,0.754,0.615,0.0,0.13,-5.346,0.171,140.04,0.345,54
+18,Tha Carter V,19,6y4pOReFqH2wzo4CV91cZC,Mess,spotify:track:6y4pOReFqH2wzo4CV91cZC,0.479,0.641,0.579,9.58e-05,0.214,-8.278,0.0895,145.994,0.421,56
+19,Tha Carter V,20,7cG6SxmQ24hQWnR8UThrk2,Dope New Gospel (feat. Nivea),spotify:track:7cG6SxmQ24hQWnR8UThrk2,0.227,0.651,0.719,0.0,0.109,-3.924,0.301,116.77,0.402,52
+20,Tha Carter V,21,4E3qImtJzRqLt8ZZyLceOE,Perfect Strangers,spotify:track:4E3qImtJzRqLt8ZZyLceOE,0.4,0.746,0.644,0.0,0.095,-2.605,0.232,146.178,0.542,54
+21,Tha Carter V,22,68lOQPb5tX8U2cQRuas0L2,Used 2,spotify:track:68lOQPb5tX8U2cQRuas0L2,0.337,0.678,0.666,0.0,0.115,-6.949,0.487,87.634,0.523,56
+22,Tha Carter V,23,3BUWNzPWz2mDbptZmGEXpB,Let It All Work Out,spotify:track:3BUWNzPWz2mDbptZmGEXpB,0.0216,0.552,0.562,0.0,0.302,-6.862,0.164,135.014,0.439,60
+46,SUPERFLY (Original Motion Picture Soundtrack),1,0rdmYZpqudklj3mhejRH1v,If You Want It (Sleepy Brown feat. Scar),spotify:track:0rdmYZpqudklj3mhejRH1v,0.0175,0.645,0.785,5.61e-06,0.0898,-6.868,0.0353,110.994,0.569,31
+47,SUPERFLY (Original Motion Picture Soundtrack),2,5BojMTUzwug3YQ21nThLhv,What's Up With That (Future feat. 21 Savage),spotify:track:5BojMTUzwug3YQ21nThLhv,0.0691,0.841,0.824,0.000126,0.192,-6.242,0.243,152.068,0.653,44
+48,SUPERFLY (Original Motion Picture Soundtrack),3,2txxneWmDggnj8J0IlA4ZF,No Shame (Future feat. PARTYNEXTDOOR),spotify:track:2txxneWmDggnj8J0IlA4ZF,0.162,0.362,0.755,0.0,0.342,-7.187,0.311,173.719,0.236,45
+49,SUPERFLY (Original Motion Picture Soundtrack),4,5r0J5io1my6Am0jmFV94OV,Walk On Minks (Future),spotify:track:5r0J5io1my6Am0jmFV94OV,0.0213,0.75,0.794,0.0,0.359,-6.539,0.168,129.993,0.645,43
+50,SUPERFLY (Original Motion Picture Soundtrack),5,15oK0dIiG9xeYU8gk2DB4m,Tie My Shoes (Future feat. Young Thug),spotify:track:15oK0dIiG9xeYU8gk2DB4m,0.0303,0.884,0.896,7.23e-05,0.0913,-4.669,0.131,149.021,0.711,36
+51,SUPERFLY (Original Motion Picture Soundtrack),6,1PxxpjnzU4miVn1ULHlo8L,Stains (Future),spotify:track:1PxxpjnzU4miVn1ULHlo8L,0.0278,0.885,0.713,0.000318,0.154,-4.853,0.261,148.058,0.275,39
+52,SUPERFLY (Original Motion Picture Soundtrack),7,0TBHAzNgH8aMmJBtpzfMfj,Show My Chain Some Love (Future feat. Young Thug),spotify:track:0TBHAzNgH8aMmJBtpzfMfj,0.0445,0.758,0.765,1.08e-05,0.0999,-5.067,0.117,139.993,0.448,38
+53,SUPERFLY (Original Motion Picture Soundtrack),8,2OaNdSbmHAgrSEfRd3czAK,R.A.N. (Miguel),spotify:track:2OaNdSbmHAgrSEfRd3czAK,0.115,0.538,0.626,1e-05,0.137,-8.272,0.0455,132.908,0.241,38
+54,SUPERFLY (Original Motion Picture Soundtrack),9,0XUHYxHOOctkSXReILAaJV,This Way (Khalid x H.E.R.),spotify:track:0XUHYxHOOctkSXReILAaJV,0.694,0.62,0.282,0.0,0.119,-10.533,0.0464,124.609,0.193,45
+55,SUPERFLY (Original Motion Picture Soundtrack),10,09rpYKV7YcVTl4vzQgQjYG,Bag (Future feat. Yung Bans),spotify:track:09rpYKV7YcVTl4vzQgQjYG,0.0811,0.857,0.457,0.0,0.191,-8.939,0.297,132.01,0.616,42
+56,SUPERFLY (Original Motion Picture Soundtrack),11,6dAxsn3aP6EBo3oJDN8mL4,Drive Itself (Future feat. Lil Wayne),spotify:track:6dAxsn3aP6EBo3oJDN8mL4,0.018,0.831,0.604,0.0,0.283,-6.08,0.251,142.985,0.141,38
+57,SUPERFLY (Original Motion Picture Soundtrack),12,0urHaAHTNeprwQuj4QzY1Q,Money Train (Future feat. Young Thug & Gunna),spotify:track:0urHaAHTNeprwQuj4QzY1Q,0.0413,0.862,0.763,1.21e-05,0.135,-4.936,0.183,150.029,0.691,41
+58,SUPERFLY (Original Motion Picture Soundtrack),13,3Bbx1UN5T0KH9uasjSSZ2q,Nowhere (Future),spotify:track:3Bbx1UN5T0KH9uasjSSZ2q,0.0813,0.817,0.493,2.42e-06,0.114,-5.09,0.134,137.104,0.227,38
+59,SUPERFLY (Original Motion Picture Soundtrack),1,4PyEyFo5PyPQXf6FputONC,Trappin' So Hard (Rich The Kid & Rico Love),spotify:track:4PyEyFo5PyPQXf6FputONC,0.215,0.867,0.564,0.0,0.112,-6.815,0.0909,109.95,0.237,41
+60,SUPERFLY (Original Motion Picture Soundtrack),2,2RC86WM8zX8v1z4QNtZ2sI,New Goals (French Montana),spotify:track:2RC86WM8zX8v1z4QNtZ2sI,0.112,0.8,0.749,0.0,0.334,-4.548,0.0593,115.076,0.247,37
+61,SUPERFLY (Original Motion Picture Soundtrack),3,2ld9oNdFAMIiAwyCFd5i9G,That's How I Grew Up (G Herbo feat. 21 Savage),spotify:track:2ld9oNdFAMIiAwyCFd5i9G,0.0372,0.787,0.771,0.0,0.329,-5.964,0.359,74.993,0.53,34
+62,SUPERFLY (Original Motion Picture Soundtrack),4,1nBlR1MbfZ1nLrecwVoLXE,"Rep Yo Click (Lil Jon feat. Bangladesh, Freeway & CyHi The Prynce)",spotify:track:1nBlR1MbfZ1nLrecwVoLXE,0.0215,0.466,0.774,0.0,0.158,-5.322,0.235,116.118,0.536,34
+63,SUPERFLY (Original Motion Picture Soundtrack),5,4bhu77kvSM5qMzTXAVzsuI,"Please Forgive (Lecrae, Sean Garrett & Crystal Nicole)",spotify:track:4bhu77kvSM5qMzTXAVzsuI,0.476,0.554,0.694,0.0,0.0681,-5.803,0.149,145.986,0.385,31
+64,SUPERFLY (Original Motion Picture Soundtrack),6,5Q98gqWkpDY7hfDa3Ho4ch,Capone Suite (Rick Ross feat. Smif-N-Wessun),spotify:track:5Q98gqWkpDY7hfDa3Ho4ch,0.000932,0.343,0.883,0.0,0.315,-5.335,0.315,76.959,0.554,31
+65,SUPERFLY (Original Motion Picture Soundtrack),7,28lYNTAmeSis1dZ7cJs6Fw,Struggles (Future feat. Sleepy Brown),spotify:track:28lYNTAmeSis1dZ7cJs6Fw,0.0858,0.772,0.456,0.0,0.224,-9.986,0.0703,129.988,0.275,29
+66,SUPERFLY (Original Motion Picture Soundtrack),8,4gxnTpSiGsXZNXlABEQHiL,Find My Way Out (HoodCelebrityy),spotify:track:4gxnTpSiGsXZNXlABEQHiL,0.0181,0.749,0.419,7.15e-06,0.0703,-7.562,0.0437,96.977,0.432,30
+67,SUPERFLY (Original Motion Picture Soundtrack),9,6CSRySSCq53b6aS4XcKxQq,La Dueña (A.CHAL),spotify:track:6CSRySSCq53b6aS4XcKxQq,0.162,0.89,0.484,0.0,0.0698,-4.896,0.198,139.774,0.521,35
+68,SUPERFLY (Original Motion Picture Soundtrack),10,4eVAlCGYvDOsI0jCjdxvBD,Georgia (Future feat. Young Thug),spotify:track:4eVAlCGYvDOsI0jCjdxvBD,0.402,0.639,0.587,0.0,0.101,-5.329,0.237,139.822,0.379,34
+69,Heres to the Roc,1,18CEsGcoxNggEPAKatmD5m,Glory,spotify:track:18CEsGcoxNggEPAKatmD5m,0.0172,0.468,0.876,0.0,0.274,-4.459,0.169,78.542,0.41,22
+70,Heres to the Roc,2,2L2GPpaTZ7YnEmG8ZtlMBq,Off the Rip - Remix,spotify:track:2L2GPpaTZ7YnEmG8ZtlMBq,0.078,0.513,0.612,0.0,0.667,-8.293,0.381,182.266,0.515,16
+71,Heres to the Roc,3,1lLoj3Fcux9TnTqa6cau4v,You Made Yet - Remix,spotify:track:1lLoj3Fcux9TnTqa6cau4v,0.069,0.719,0.65,0.0,0.269,-6.984,0.193,85.972,0.325,16
+72,Heres to the Roc,4,07NfxnfOSa8VtpfhqzBshv,Ms,spotify:track:07NfxnfOSa8VtpfhqzBshv,0.0031,0.787,0.636,0.0,0.225,-6.776,0.234,116.622,0.198,20
+73,Heres to the Roc,5,4xWzeOTftGCOWBqj4oTVEi,I Aint Gonna Lie,spotify:track:4xWzeOTftGCOWBqj4oTVEi,0.279,0.388,0.681,0.0,0.63,-6.767,0.397,182.195,0.649,15
+74,Heres to the Roc,6,7kg92ixg8VaelDvgg2NTWr,Just Right for Me,spotify:track:7kg92ixg8VaelDvgg2NTWr,0.0808,0.524,0.803,0.0,0.0578,-4.698,0.139,130.068,0.656,12
+75,Heres to the Roc,7,5YEOrYnE9t0OjiaRcmF2jO,Brown Sugar,spotify:track:5YEOrYnE9t0OjiaRcmF2jO,0.0261,0.648,0.562,0.0,0.508,-5.969,0.128,114.085,0.459,15
+76,Heres to the Roc,8,5xzcgldpCjPqgpE5clKkQO,Me U and Hennessy,spotify:track:5xzcgldpCjPqgpE5clKkQO,0.597,0.431,0.536,0.0,0.115,-8.4,0.276,75.055,0.236,21
+77,Heres to the Roc,9,4TOC84gDnkvb31yonq4o5u,Commas,spotify:track:4TOC84gDnkvb31yonq4o5u,0.0356,0.797,0.536,1.76e-05,0.103,-8.44,0.212,139.927,0.192,20
+78,Heres to the Roc,10,15aIHlxcob6ghXvwRSYS3w,Next up Cypher,spotify:track:15aIHlxcob6ghXvwRSYS3w,0.643,0.565,0.421,0.0,0.161,-15.905,0.728,86.753,0.518,9
+79,Heres to the Roc,11,66abp9XIEaMOw4JZhdSLPV,Deep,spotify:track:66abp9XIEaMOw4JZhdSLPV,0.359,0.841,0.501,0.0,0.118,-7.61,0.154,120.12,0.359,15
+80,Sorry 4 the Wait 2,1,7gKOPIdYwjdp1YsBdtiNPK,Coco,spotify:track:7gKOPIdYwjdp1YsBdtiNPK,0.00277,0.847,0.556,0.0,0.151,-5.599,0.201,120.145,0.388,26
+81,Sorry 4 the Wait 2,2,2o54BCMsZleysRODQyftJH,Shit,spotify:track:2o54BCMsZleysRODQyftJH,0.00898,0.74,0.643,0.0,0.197,-5.714,0.274,105.921,0.333,19
+82,Sorry 4 the Wait 2,3,6XJybnnrldoz0tGtBINnUB,Trap House,spotify:track:6XJybnnrldoz0tGtBINnUB,0.00489,0.84,0.751,0.0,0.287,-7.246,0.399,137.862,0.342,19
+83,Sorry 4 the Wait 2,4,5CKxwmh1TDTBFj7AYtD3Uq,Selsun Blue,spotify:track:5CKxwmh1TDTBFj7AYtD3Uq,0.0855,0.665,0.658,0.0,0.122,-6.064,0.519,173.011,0.21,19
+84,Sorry 4 the Wait 2,5,1GPjx8WOcdZCmqAXn5ULhQ,Used To,spotify:track:1GPjx8WOcdZCmqAXn5ULhQ,0.101,0.887,0.46,0.0,0.321,-6.513,0.478,96.027,0.474,21
+85,Sorry 4 the Wait 2,6,1pG9X5SZvO5Bq3gHFV8t2h,No Type,spotify:track:1pG9X5SZvO5Bq3gHFV8t2h,0.0132,0.564,0.498,0.0,0.109,-8.382,0.273,124.602,0.181,23
+86,Sorry 4 the Wait 2,7,7Kf2z3MRoHHixB51wi5VNp,Fingers Hurting,spotify:track:7Kf2z3MRoHHixB51wi5VNp,0.00102,0.871,0.606,0.0,0.182,-6.19,0.192,130.008,0.435,18
+87,Sorry 4 the Wait 2,8,1UQtRlixXof9EylimFdmx5,Hot Nigga,spotify:track:1UQtRlixXof9EylimFdmx5,0.105,0.777,0.876,0.0,0.338,-4.006,0.42,168.081,0.39,30
+88,Sorry 4 the Wait 2,9,5A5G55tZbFQ2DJ69w37yRk,Hollyweezy,spotify:track:5A5G55tZbFQ2DJ69w37yRk,0.0545,0.757,0.674,0.0,0.0885,-7.159,0.317,104.904,0.629,23
+89,Sorry 4 the Wait 2,10,27hITLjUcx8NjyBpbCmicy,Drunk in Love,spotify:track:27hITLjUcx8NjyBpbCmicy,0.00397,0.67,0.683,0.0,0.0806,-5.211,0.21,139.975,0.526,23
+90,Sorry 4 the Wait 2,11,0zApVb7kiZ3USUbw2clXwd,You Guessed It,spotify:track:0zApVb7kiZ3USUbw2clXwd,0.00118,0.921,0.392,0.0,0.109,-9.071,0.655,120.122,0.142,21
+91,Sorry 4 the Wait 2,12,5j808GZ2p8jLbY49Mx0Kzo,Try Me,spotify:track:5j808GZ2p8jLbY49Mx0Kzo,0.000553,0.511,0.723,0.0,0.384,-7.199,0.391,169.366,0.764,18
+92,Sorry 4 the Wait 2,13,5PmOw2fREEOqQ7LbYnw8qK,Preach,spotify:track:5PmOw2fREEOqQ7LbYnw8qK,0.0448,0.76,0.533,0.0,0.122,-7.852,0.434,77.991,0.371,17
+93,Sorry 4 the Wait 2,14,42w1gHrqcOqNzoDlNrsSQn,Alphabet,spotify:track:42w1gHrqcOqNzoDlNrsSQn,0.146,0.575,0.727,1.75e-06,0.109,-5.405,0.154,139.936,0.477,20
+94,Sorry 4 the Wait 2,15,14ZDlrFlmqbYJRzRh5josO,No Haters,spotify:track:14ZDlrFlmqbYJRzRh5josO,0.0131,0.722,0.318,0.0,0.0732,-14.155,0.633,182.96,0.459,18
+95,Sorry 4 the Wait 2,16,4dQsay1RD34Zc8EXsbfuLK,Admit It,spotify:track:4dQsay1RD34Zc8EXsbfuLK,0.224,0.754,0.601,0.0,0.22,-6.521,0.146,119.908,0.586,17
+96,Sorry 4 the Wait 2,17,6QDCGWArGFytNEcMuMrSM9,Dreams and Nightmares,spotify:track:6QDCGWArGFytNEcMuMrSM9,0.621,0.541,0.827,0.0,0.331,-2.65,0.314,119.44,0.364,21
+97,Loosing Myself,1,3BOoSdPFWkDrskE3gW646N,Take Kare,spotify:track:3BOoSdPFWkDrskE3gW646N,0.0258,0.663,0.446,0.0,0.0792,-10.192,0.343,180.016,0.304,17
+98,Loosing Myself,2,2ApTIkymBf5JaPsSQcOjak,Errbody - Remix,spotify:track:2ApTIkymBf5JaPsSQcOjak,0.0266,0.877,0.62,0.0,0.133,-5.728,0.0759,104.003,0.379,17
+99,Loosing Myself,3,2T6mzKu0YqFMJffCO23tAF,Fuck Yo Feelings,spotify:track:2T6mzKu0YqFMJffCO23tAF,0.0166,0.731,0.726,0.0,0.095,-3.844,0.145,120.159,0.345,17
+100,Loosing Myself,4,5xghqAlCLGE8K8kzp76ZqL,Grindin,spotify:track:5xghqAlCLGE8K8kzp76ZqL,0.0117,0.823,0.48,0.0,0.529,-9.538,0.185,104.007,0.402,17
+101,Loosing Myself,5,6fPqt1P5obZB8ST9LwgTRX,Krazy,spotify:track:6fPqt1P5obZB8ST9LwgTRX,0.000391,0.859,0.749,7.05e-06,0.199,-13.031,0.176,132.986,0.291,15
+102,Loosing Myself,6,4jxCOWZ9Fv0Q028l4UtcsK,Buy the World,spotify:track:4jxCOWZ9Fv0Q028l4UtcsK,0.0433,0.767,0.47,0.00129,0.322,-13.098,0.145,119.949,0.192,17
+103,Loosing Myself,7,3mDgaK5BZ0Bm0cOtV1GN0F,Dusse,spotify:track:3mDgaK5BZ0Bm0cOtV1GN0F,0.0364,0.804,0.318,0.0,0.0905,-12.08,0.267,125.024,0.48,9
+104,Loosing Myself,8,4wMyUIbw0we3ncc9TErzGz,Good,spotify:track:4wMyUIbw0we3ncc9TErzGz,0.0331,0.814,0.413,0.0,0.102,-8.379,0.154,125.021,0.416,8
+105,Loosing Myself,9,0PtgKgXTm5Z3rmzVhs9510,Moment,spotify:track:0PtgKgXTm5Z3rmzVhs9510,0.0276,0.679,0.521,0.0,0.0744,-7.412,0.304,140.583,0.362,15
+106,Loosing Myself,10,06bQIoHbU7RGA7PJw2Te4S,Video Model,spotify:track:06bQIoHbU7RGA7PJw2Te4S,0.0446,0.812,0.658,6.05e-05,0.0865,-6.213,0.0626,132.033,0.532,11
+107,Loosing Myself,11,3WwVP41xZolnuFyv6Nd8Fp,Streets Raised,spotify:track:3WwVP41xZolnuFyv6Nd8Fp,0.0932,0.435,0.842,0.0,0.375,-7.497,0.539,159.272,0.739,10
+139,I Am Not A Human Being II (Japan Version),18,2O6IfU7upbTKHfcUqSUG29,Shit Stain,spotify:track:2O6IfU7upbTKHfcUqSUG29,0.0142,0.666,0.738,0.0,0.843,-6.604,0.363,151.957,0.661,0
+140,I Am Not A Human Being II (Deluxe),1,3jTbaxi59TkyCs0tzt2DSD,IANAHB,spotify:track:3jTbaxi59TkyCs0tzt2DSD,0.615,0.479,0.577,0.0,0.266,-9.647,0.0994,83.556,0.249,35
+141,I Am Not A Human Being II (Deluxe),2,5umrm7USJCF3OzmsgxAPc9,Curtains,spotify:track:5umrm7USJCF3OzmsgxAPc9,0.0456,0.758,0.621,0.0,0.335,-4.562,0.12,127.925,0.487,37
+142,I Am Not A Human Being II (Deluxe),3,2ETzQogXcmi9OBU9HQFpyO,Days And Days,spotify:track:2ETzQogXcmi9OBU9HQFpyO,0.00617,0.717,0.589,0.0,0.338,-4.843,0.333,142.09,0.811,37
+143,I Am Not A Human Being II (Deluxe),4,4iQLJCvthLGQDXFYkfAXbG,Gunwalk,spotify:track:4iQLJCvthLGQDXFYkfAXbG,0.0189,0.818,0.666,0.0,0.0673,-6.975,0.335,140.045,0.473,51
+144,I Am Not A Human Being II (Deluxe),5,2DLsQuwxEdXt2yp54vw355,No Worries,spotify:track:2DLsQuwxEdXt2yp54vw355,0.085,0.844,0.592,0.0,0.0817,-5.486,0.199,128.033,0.819,53
+145,I Am Not A Human Being II (Deluxe),6,2ZBfTcQM9S3yTLKhHrvCnQ,Back To You,spotify:track:2ZBfTcQM9S3yTLKhHrvCnQ,0.0408,0.699,0.869,0.0,0.161,-4.275,0.0744,112.965,0.406,39
+146,I Am Not A Human Being II (Deluxe),7,4NqPAGBUyGelCKnF0N60s2,Trigger Finger,spotify:track:4NqPAGBUyGelCKnF0N60s2,0.00992,0.845,0.53,0.0,0.216,-8.427,0.196,99.978,0.413,43
+147,I Am Not A Human Being II (Deluxe),8,4lbdubTAn1l8XZc4803AJf,Beat The Shit,spotify:track:4lbdubTAn1l8XZc4803AJf,0.0206,0.915,0.632,0.0,0.502,-7.319,0.329,142.126,0.741,37
+148,I Am Not A Human Being II (Deluxe),9,3Eq7yD58dIXqOgw1j7NFhY,Rich As Fuck,spotify:track:3Eq7yD58dIXqOgw1j7NFhY,0.0395,0.612,0.593,0.0,0.484,-6.294,0.458,130.583,0.883,58
+149,I Am Not A Human Being II (Deluxe),10,2SOsWLMZdA4XcWmkgSCdo4,Trippy,spotify:track:2SOsWLMZdA4XcWmkgSCdo4,0.0712,0.76,0.605,0.0,0.199,-6.085,0.502,135.995,0.516,42
+150,I Am Not A Human Being II (Deluxe),11,7tGlzXJv6GD5e5qlu5YmDg,Love Me,spotify:track:7tGlzXJv6GD5e5qlu5YmDg,0.0119,0.674,0.608,0.0,0.103,-6.628,0.0334,124.952,0.464,63
+151,I Am Not A Human Being II (Deluxe),12,0RC6NdZjgVuwbvDuCs70NJ,God Bless Amerika,spotify:track:0RC6NdZjgVuwbvDuCs70NJ,0.00934,0.578,0.709,2.65e-06,0.27,-7.91,0.175,127.946,0.458,41
+152,I Am Not A Human Being II (Deluxe),13,7rZVhJBmuX6TLo1h2PTv7Z,Wowzerz,spotify:track:7rZVhJBmuX6TLo1h2PTv7Z,0.00291,0.967,0.74,0.0,0.0845,-5.621,0.126,130.011,0.81,39
+153,I Am Not A Human Being II (Deluxe),14,6RcXTBoRtGeRXNpEKKhwO6,Hello,spotify:track:6RcXTBoRtGeRXNpEKKhwO6,0.00269,0.761,0.905,0.0,0.0612,-3.797,0.113,113.045,0.583,30
+154,I Am Not A Human Being II (Deluxe),15,70vyPOk2VdMN53oOsLtPYJ,Lay It Down,spotify:track:70vyPOk2VdMN53oOsLtPYJ,0.507,0.7,0.6,0.0,0.687,-5.63,0.434,134.056,0.733,35
+155,I Am Not A Human Being II (Deluxe),16,2xv4vRPukRNAtdgyj7EqrT,Hot Revolver,spotify:track:2xv4vRPukRNAtdgyj7EqrT,0.00523,0.703,0.513,0.0,0.0872,-7.209,0.0481,128.994,0.274,35
+156,I Am Not A Human Being II (Deluxe),17,1cji6jI9LQ5zaStXrydl7F,My Homies Still,spotify:track:1cji6jI9LQ5zaStXrydl7F,0.00124,0.749,0.643,0.0,0.111,-5.537,0.257,74.996,0.472,45
+191,I Am Not A Human Being II (Deluxe),1,7AMHYK5hCmWD2TUlgEyN3z,IANAHB - Album Version (Edited),spotify:track:7AMHYK5hCmWD2TUlgEyN3z,0.627,0.476,0.498,0.0,0.236,-11.544,0.0815,83.266,0.257,9
+192,I Am Not A Human Being II (Deluxe),2,49LqvDEHouX3aEvbHDffnz,Curtains - Album Version (Edited),spotify:track:49LqvDEHouX3aEvbHDffnz,0.0326,0.768,0.598,0.0,0.424,-4.894,0.141,128.019,0.506,11
+193,I Am Not A Human Being II (Deluxe),3,6i2w2R1X7fs43cSqdBm5XA,Days And Days - Album Version (Edited),spotify:track:6i2w2R1X7fs43cSqdBm5XA,0.00522,0.711,0.58,0.0,0.339,-5.032,0.347,142.069,0.749,10
+194,I Am Not A Human Being II (Deluxe),4,40mesRahY3l2u5U4wSzSrc,Gunwalk - Album Version (Edited),spotify:track:40mesRahY3l2u5U4wSzSrc,0.00714,0.842,0.604,0.0,0.0713,-8.34,0.322,140.04,0.435,16
+195,I Am Not A Human Being II (Deluxe),5,7N0Ei0oK13DgMjwBUixAES,No Worries - Album Version (Edited),spotify:track:7N0Ei0oK13DgMjwBUixAES,0.0704,0.85,0.568,0.0,0.0942,-6.567,0.167,128.052,0.735,27
+196,I Am Not A Human Being II (Deluxe),6,0JXCWXwDRlbw9QbyxiPJcR,Back To You - Album Version (Edited),spotify:track:0JXCWXwDRlbw9QbyxiPJcR,0.0441,0.701,0.853,0.0,0.168,-4.971,0.0596,113.0,0.393,10
+197,I Am Not A Human Being II (Deluxe),7,7eGkravM5MpgajaQ3XjvxM,Trigger Finger - Album Version (Edited),spotify:track:7eGkravM5MpgajaQ3XjvxM,0.0115,0.84,0.477,2.11e-05,0.168,-9.427,0.128,99.977,0.414,13
+198,I Am Not A Human Being II (Deluxe),8,3XTWJgLtZJBG88eDN3pyHa,Beat The S*** - Album Version (Edited),spotify:track:3XTWJgLtZJBG88eDN3pyHa,0.0134,0.917,0.574,0.0,0.481,-8.46,0.487,142.102,0.624,8
+199,I Am Not A Human Being II (Deluxe),9,6M0V6J1LDH0nBPVyRlzsvx,Rich As F*** - Album Version (Edited),spotify:track:6M0V6J1LDH0nBPVyRlzsvx,0.0189,0.749,0.554,0.0,0.166,-7.285,0.463,131.961,0.867,24
+200,I Am Not A Human Being II (Deluxe),10,47nQa1y00mCgkfEcj4JwlT,Trippy - Album Version (Edited),spotify:track:47nQa1y00mCgkfEcj4JwlT,0.055,0.872,0.555,0.0,0.188,-7.255,0.471,136.012,0.54,13
+201,I Am Not A Human Being II (Deluxe),11,0TOnIxa46spYydQeYumLPI,Love Me - Album Version (Edited),spotify:track:0TOnIxa46spYydQeYumLPI,0.00702,0.676,0.594,0.0,0.108,-6.757,0.0345,124.988,0.416,30
+202,I Am Not A Human Being II (Deluxe),12,6W1X2s4LZ8gx2LOas0wRXN,God Bless Amerika - Album Version (Edited),spotify:track:6W1X2s4LZ8gx2LOas0wRXN,0.00632,0.581,0.598,7.59e-06,0.264,-9.948,0.175,127.859,0.37,12
+203,I Am Not A Human Being II (Deluxe),13,54o2zwQrVEh4CKeYwOx0mx,Wowzerz - Album Version (Edited),spotify:track:54o2zwQrVEh4CKeYwOx0mx,0.00144,0.966,0.679,0.0,0.0848,-6.578,0.125,130.002,0.79,10
+204,I Am Not A Human Being II (Deluxe),14,7eo007mqHK8yehKcXmI8w3,Hello - Album Version (Edited),spotify:track:7eo007mqHK8yehKcXmI8w3,0.00172,0.769,0.878,0.0,0.0531,-5.087,0.0998,113.049,0.565,6
+205,I Am Not A Human Being II (Deluxe),15,4PU44yhGWikDoMOJhJjppG,Lay It Down - Album Version (Edited),spotify:track:4PU44yhGWikDoMOJhJjppG,0.515,0.664,0.547,0.0,0.658,-6.949,0.484,134.207,0.689,9
+206,I Am Not A Human Being II (Deluxe),16,2IzQkVT6p3UuMnraUkNqrH,Hot Revolver - Album Version (Edited),spotify:track:2IzQkVT6p3UuMnraUkNqrH,0.00624,0.627,0.505,0.0,0.104,-6.909,0.057,129.082,0.25,11
+207,I Am Not A Human Being II (Deluxe),17,0jvec7TOroAdRPsUlIDmFj,My Homies Still - Edited Version,spotify:track:0jvec7TOroAdRPsUlIDmFj,0.00147,0.731,0.579,0.0,0.0918,-6.483,0.215,74.914,0.429,22
+268,Tha Carter IV (Japan Version),19,2r6p9EwUsBxuHVplE7vDXr,Novacane,spotify:track:2r6p9EwUsBxuHVplE7vDXr,0.0695,0.555,0.628,0.0,0.38,-7.177,0.157,74.588,0.526,0
+269,Tha Carter IV (Japan Version),20,5eAoq6NhTKLzWemCanfsHB,I Got Some Money On Me,spotify:track:5eAoq6NhTKLzWemCanfsHB,0.000324,0.671,0.817,0.0,0.117,-5.016,0.0672,162.948,0.521,0
+270,Tha Carter IV (Deluxe),1,2ikizHdvajtNX79LUsVagh,Intro,spotify:track:2ikizHdvajtNX79LUsVagh,0.00185,0.622,0.811,0.0,0.149,-5.985,0.207,130.93,0.413,40
+271,Tha Carter IV (Deluxe),2,6v2eEC9Nr9POe5xPUm8361,Blunt Blowin,spotify:track:6v2eEC9Nr9POe5xPUm8361,0.00222,0.721,0.738,0.0,0.224,-5.682,0.0649,135.988,0.375,58
+272,Tha Carter IV (Deluxe),3,00NUqFMIpCsrYPbM9YpVHQ,MegaMan,spotify:track:00NUqFMIpCsrYPbM9YpVHQ,0.0114,0.504,0.856,0.0,0.256,-5.024,0.286,101.866,0.335,51
+273,Tha Carter IV (Deluxe),4,0z5ZPs57J2KERwM1tBM2GF,6 Foot 7 Foot,spotify:track:0z5ZPs57J2KERwM1tBM2GF,0.000707,0.365,0.751,0.0,0.318,-5.429,0.304,79.119,0.604,67
+274,Tha Carter IV (Deluxe),5,37sImz0wkOcX1cMWzo080d,Nightmares Of The Bottom,spotify:track:37sImz0wkOcX1cMWzo080d,0.00953,0.81,0.577,3.48e-06,0.0838,-6.142,0.149,140.065,0.408,49
+275,Tha Carter IV (Deluxe),6,3FFcZZq3Z3EJrhUecwcMdG,She Will,spotify:track:3FFcZZq3Z3EJrhUecwcMdG,0.000402,0.364,0.841,0.0,0.242,-4.831,0.119,100.14,0.0837,60
+276,Tha Carter IV (Deluxe),7,5DjLed65sri5juDG6kdPPK,How To Hate,spotify:track:5DjLed65sri5juDG6kdPPK,0.222,0.402,0.754,0.0,0.527,-5.955,0.0874,145.493,0.246,45
+277,Tha Carter IV (Deluxe),8,08VaVTsCjqSS5BlgGiYzej,Interlude,spotify:track:08VaVTsCjqSS5BlgGiYzej,0.0197,0.665,0.905,0.0,0.209,-4.224,0.267,130.864,0.532,44
+278,Tha Carter IV (Deluxe),9,7HaggpJGAfEgH8wyMLOIPl,John,spotify:track:7HaggpJGAfEgH8wyMLOIPl,0.0143,0.589,0.821,0.0,0.112,-4.473,0.111,77.472,0.424,54
+279,Tha Carter IV (Deluxe),10,4a0O6q59CDWBwVU4Gm4WHN,Abortion,spotify:track:4a0O6q59CDWBwVU4Gm4WHN,0.0154,0.329,0.866,0.0,0.221,-4.444,0.268,150.557,0.17,41
+280,Tha Carter IV (Deluxe),11,6CNlnlcnQ7DMFmloIRR1e3,So Special,spotify:track:6CNlnlcnQ7DMFmloIRR1e3,0.0118,0.404,0.871,0.0,0.87,-4.606,0.133,145.414,0.192,43
+281,Tha Carter IV (Deluxe),12,4aX4Oycsk1fhHIee1zqsDe,How To Love,spotify:track:4aX4Oycsk1fhHIee1zqsDe,0.000177,0.644,0.661,5.14e-06,0.108,-6.093,0.0418,154.001,0.272,63
+282,Tha Carter IV (Deluxe),13,0h6sfKXFb641F2E13rY4f2,President Carter,spotify:track:0h6sfKXFb641F2E13rY4f2,0.689,0.676,0.618,0.00821,0.127,-7.495,0.196,79.799,0.466,50
+283,Tha Carter IV (Deluxe),14,5o5KX1f1JBQ2SxGzE8RQQA,It's Good,spotify:track:5o5KX1f1JBQ2SxGzE8RQQA,0.0244,0.666,0.715,0.0,0.119,-7.292,0.156,85.356,0.1,47
+284,Tha Carter IV (Deluxe),15,6xzV1SAarFrTCYMzWjxy97,Outro,spotify:track:6xzV1SAarFrTCYMzWjxy97,0.0553,0.734,0.864,0.0,0.305,-4.841,0.141,131.146,0.652,40
+285,Tha Carter IV (Deluxe),16,7kfeISl8OKZ18wHdjK7PsO,I Like The View,spotify:track:7kfeISl8OKZ18wHdjK7PsO,0.00305,0.517,0.851,1.65e-06,0.189,-5.935,0.106,96.296,0.387,42
+287,Tha Carter IV (Deluxe),18,0UgOoittThKoeePLufhLTs,Two Shots,spotify:track:0UgOoittThKoeePLufhLTs,0.00484,0.419,0.615,7.03e-06,0.13,-8.56,0.197,144.937,0.38,41
+304,Tha Carter IV (Deluxe),17,6MreoQf8oixWI2xRcw3Fv1,Mirror,spotify:track:6MreoQf8oixWI2xRcw3Fv1,0.858,0.331,0.622,0.0,0.104,-7.291,0.092,64.468,0.388,65
+327,Tha Carter IV (Deluxe),4,7gdGdDgpCDy2kACTqvXbYa,6 Foot 7 Foot - Edited Version,spotify:track:7gdGdDgpCDy2kACTqvXbYa,0.000821,0.454,0.746,0.0,0.311,-5.499,0.274,83.509,0.591,42
+332,Tha Carter IV (Deluxe),9,3TuIxvSEu4nfyrVHZJwBXY,John - Edited Version,spotify:track:3TuIxvSEu4nfyrVHZJwBXY,0.0121,0.547,0.823,0.0,0.11,-4.495,0.181,154.97,0.424,24
