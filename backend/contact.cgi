@@ -22,10 +22,10 @@ messag=webdata.getvalue("msg")
 
 
 #user info sender to receiver
-email_user = 'cachecoders@gmail.com' 
-email_password = 'Pass-1234' 
-email_send = 'hsinha177@gmail.com' 
-subject = 'Message from cache coders' 
+email_user = 'emailid' 
+email_password = 'emailid password' 
+email_send = 'sender emailid' 
+subject = 'subject for msg' 
 
 #message format
 msg = MIMEMultipart() 
