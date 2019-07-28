@@ -18,12 +18,12 @@ paswd1=webdata.getvalue("pwd-repeat")
 name = eid.split("@")[0]
 
 if paswd == paswd1 :
-	conn=mysql.connector.connect(host="localhost",user="root",passwd="root",database="reko")
+	conn=mysql.connector.connect(host='localhost',user='username',passwd='user password',database='database name')
 	mycursor=conn.cursor()
 	mycursor.execute("insert into user values('%s','%s')"%(eid,paswd))
 	conn.commit()
 
-	mydb=mysql.connector.connect(host="localhost", user="root",passwd="root",database="reko")
+	mydb=mysql.connector.connect(host='localhost',user='username',passwd='user password',database='database name')
 	mycursor=mydb.cursor()
 	mycursor.execute("create table %s(login_time varchar(20),logout_time varchar(20),imageid varchar(20),sentiment varchar(20))"%(name))
 	mydb.commit()
